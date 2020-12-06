@@ -1,0 +1,22 @@
+
+.box_1{
+	height:100px;
+	width:100px;
+	background-color: #eee;
+}
+
+
+.box{
+	min-height:80px;
+	background-color: #eee;
+}
+
+.box1{
+	height:80px;
+	background-color: #eee;
+}
+.box2{
+	height:15px;
+	width:15px;
+	background-color: #626262;
+}
